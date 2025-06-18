@@ -26,11 +26,6 @@ Welcome to my implementation of Conway's **Game of Life**, built in C# as a desk
 2. Open the solution (GameOfLife.sln) in Visual Studio
 3. Build and run the project
 
-### Or, run the .exe directly:
-If you'd rather not build the code:
-- Download the latest release from Releases
-- Unzip and launch GameOfLife.exe
-  
 ⚠️ Always scan downloaded binaries before running. Trust your own code only!
 
 ## 🖼️Screenshots
